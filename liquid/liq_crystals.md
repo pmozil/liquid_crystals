@@ -5,6 +5,6 @@
 
 # Класифікація
 
-В залежності від способу утворення [мезофаз](misc/mesophase) рідкі кристали поділяються на [ліотропні](classification/liotropes) та [термотропні](classification/thermotropes).
+В залежності від способу утворення [мезофаз](misc/mesophase) рідкі кристали поділяються на [ліотропні](liotropes.md) та [термотропні](thermotropes.md).
 
-### [Відкриття](discovery)
+### [Відкриття](liq_discovery.md)

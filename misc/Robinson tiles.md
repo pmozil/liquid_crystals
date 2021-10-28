@@ -1,0 +1,2 @@
+# Robinson tiles
+A set of 6 tiles that could only tile the plane non-periodically. Instead of using colors like [[Multicolored square tiles]] he used more complex shapes and colored lines, with rotations and reflections permitted.
